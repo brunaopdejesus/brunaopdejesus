@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, Devs! I'm Bruna 👋
+## Welcome to my Github profile
+
+- 🌱 I’m currently learning ...
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+
+
+
 
 <!--
 **brunaopdejesus/brunaopdejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
