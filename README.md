@@ -1,5 +1,5 @@
 <a href="https://storyset.com/illustration/javascript-frameworks/amico">
-  <img align="right" src="https://storyset.com/illustration/javascript-frameworks/bro"/>
+  <img align="right" src="Devices-bro.pnh"/>
 </a>
 
 ## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
