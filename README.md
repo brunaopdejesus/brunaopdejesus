@@ -1,7 +1,7 @@
 ## Hi, Devs! I'm Bruna 👋 Welcome to my Github profile!
 
 ### I’m currently learning...
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 
 <!--
