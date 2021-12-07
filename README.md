@@ -15,8 +15,6 @@
 
 > “It's not a faith in technology. It's faith in people.” - Steve Jobs
 
-</br>
-
 <div align="center"><br><hr>
   <a href="https://github.com/brunaopdejesus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaopdejesus"/>
