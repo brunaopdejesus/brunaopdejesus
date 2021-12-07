@@ -19,6 +19,8 @@
   <a href="https://github.com/brunaopdejesus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaopdejesus"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaopdejesus&layout=compact"/>
+  <img height="180em" src="https://github.com/brunaopdejesus/brunaopdejesus/blob/output/github-contribution-grid-snake.svg"/>
+
 </div>
 
 
