@@ -2,8 +2,9 @@
   <img align="right" src="https://blush.design/api/download?shareUri=G3WUfj8isJ&w=800&h=800&fm=png" width=45% height=45% />
 </a>
 
-## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/> Welcome to my Github profile!
+## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
 
+Welcome to my Github profile!
 - :information_desk_person: I'm 16 years old.
 
 - 🏢 I'm currently studying at <a href="https://jandira.sp.senai.br/">Senai Jandira</a>.
