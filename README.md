@@ -1,5 +1,5 @@
 ## Hi, Devs! Welcome to my Github profile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
-> “The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.” - Tim Berners-Lee.
+> “It's not a faith in technology. It's faith in people.” - Steve Jobs
 
 
 ## Technologies & Tools
