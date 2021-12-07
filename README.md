@@ -1,5 +1,5 @@
 <a href="https://blush.design/pt/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley" title="Illustration by Pablo Stanley">
-  <img align="right" src="https://storyset.com/illustration/javascript-frameworks/bro#D4A1B3FF&hide=&hide=complete" width=45% height=45% />
+  <img align="right" src="https://storyset.com/illustration/code-review/amico#D4A1B3FF&hide=&hide=complete" width=45% height=45% />
 </a>
 
 ## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
