@@ -1,5 +1,10 @@
-## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
-Welcome to my Github profile! I'm 16 years old and I'm currently studying at <a href="https://jandira.sp.senai.br/">Senai Jandira</a>.
+## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/> Welcome to my Github profile!
+
+- 🏢 I'm currently studying at <a href="https://jandira.sp.senai.br/">Senai Jandira</a>.
+
+- 💬 Ask me about **HTML, CSS, Kotlin**
+
+- ☕ Coffee lover.
 
 > “It's not a faith in technology. It's faith in people.” - Steve Jobs
 
