@@ -1,5 +1,5 @@
 <a href="https://blush.design/pt/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley" title="Illustration by Pablo Stanley">
-  <img align="right" src="https://blush.design/api/download?shareUri=G3WUfj8isJ&w=800&h=800&fm=png" width=50% height=50% />
+  <img align="right" src="https://blush.design/api/download?shareUri=G3WUfj8isJ&w=800&h=800&fm=png" width=45% height=45% />
 </a>
 
 ## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/> Welcome to my Github profile!
@@ -23,10 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaopdejesus&layout=compact"/>
 </div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaopdejesus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br></br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaopdejesus)](https://github.com/anuraghazra/github-readme-stats)
-  ![Snake animation](https://github.com/brunaopdejesus/brunaopdejesus/blob/output/github-contribution-grid-snake.svg)
 
 ## Technologies & Tools
 
