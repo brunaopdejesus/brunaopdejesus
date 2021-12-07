@@ -1,4 +1,4 @@
-<a href="https://storyset.com/illustration/javascript-frameworks/amico">
+<a href="https://storyset.com/illustration/devices/bro">
   <img align="right" src="Devices-bro.png" width=40% height=40%/>
 </a>
 
