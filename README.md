@@ -2,7 +2,7 @@
 ## Welcome to my Github profile
 
 - 🌱 I’m currently learning ...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
 
 
 
