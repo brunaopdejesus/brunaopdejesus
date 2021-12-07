@@ -14,7 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaopdejesus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
-</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaopdejesus)](https://github.com/anuraghazra/github-readme-stats)
 ![Snake animation](https://github.com/brunaopdejesus/brunaopdejesus/blob/output/github-contribution-grid-snake.svg)
 
