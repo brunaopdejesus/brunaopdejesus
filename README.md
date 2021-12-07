@@ -1,5 +1,5 @@
 <a href="https://storyset.com/illustration/devices/bro">
-  <img align="right" src="Devices-bro (1).png" width=42% height=42%/>
+  <img align="right" src="Devices-bro (1).png" width=40% height=40%/>
 </a>
 
 ## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
