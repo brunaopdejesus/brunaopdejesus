@@ -1,4 +1,4 @@
-<a href="https://blush.design/pt/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley" title="Illustration by Pablo Stanley">
+<a href="https://storyset.com/illustration/javascript-frameworks/amico">
   <img align="right" src="https://storyset.com/illustration/code-review/amico#D4A1B3FF&hide=&hide=complete" width=45% height=45% />
 </a>
 
