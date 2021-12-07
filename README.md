@@ -1,8 +1,10 @@
 ## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/> Welcome to my Github profile!
 
+- ☕ I'm 16 years old.
+
 - 🏢 I'm currently studying at <a href="https://jandira.sp.senai.br/">Senai Jandira</a>.
 
-- 💬 Ask me about **HTML, CSS, Kotlin**
+- 💬 Ask me about **HTML, CSS, JavaScript, Kotlin**.
 
 - ☕ Coffee lover.
 
