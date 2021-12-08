@@ -7,7 +7,7 @@
 Welcome to my Github profile!
 - :information_desk_person: I'm 16 years old.
 
-- 🏢 I'm currently studying at <a href="https://jandira.sp.senai.br/" target="_blank">Senai Jandira</a>.
+- 🏢 I'm currently studying at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Kotlin**.
 
