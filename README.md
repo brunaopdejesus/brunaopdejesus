@@ -5,7 +5,7 @@
 ## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
 
 Welcome to my Github profile!
-- :information_desk_person: I'm 16 years old.
+- :information_desk_person: I'm 17 years old.
 
 - 🏢 I'm currently studying at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>.
 
