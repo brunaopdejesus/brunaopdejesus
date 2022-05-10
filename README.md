@@ -15,13 +15,6 @@ Welcome to my Github profile!
 
 
 > “It's not a faith in technology. It's faith in people.” - Steve Jobs
-
-<div align="center"><br><hr>
-  <a href="https://github.com/brunaopdejesus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaopdejesus"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaopdejesus&layout=compact"/>
-  <img height="180em" src="https://github.com/brunaopdejesus/brunaopdejesus/blob/output/github-contribution-grid-snake.svg"/>
-</div>
   
 <hr>  
 
@@ -32,6 +25,15 @@ Welcome to my Github profile!
 
 ## Get in touch
 <a href="https://www.linkedin.com/in/opjbruna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://t.me/opjbru"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="mailto:bruna.opdejesus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<hr>
+
+<div align="center"><br><hr>
+  <a href="https://github.com/brunaopdejesus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaopdejesus"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaopdejesus&layout=compact"/>
+  <img height="180em" src="https://github.com/brunaopdejesus/brunaopdejesus/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 <!--
 
