@@ -9,7 +9,7 @@ Welcome to my Github profile!
 
 - 🏢 I'm currently studying at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>.
 
-- 💬 Ask me about **JAVA, Kotlin, PHP**.
+- 💬 Ask me about **Java, Kotlin, PHP**.
 
 - ☕ Coffee lover.
 
