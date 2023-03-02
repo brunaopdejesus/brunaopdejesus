@@ -13,8 +13,6 @@ Welcome to my Github profile!
 
 - 💬 Ask me about **Java, Python, Javascript, PHP**.
 
-- ☕ Coffee lover.
-
 
 > “It's not a faith in technology. It's faith in people.” - Steve Jobs
 
