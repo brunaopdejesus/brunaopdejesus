@@ -7,7 +7,7 @@
 Welcome to my Github profile!
 - :information_desk_person: I'm 17 years old.
 
-- 🏫 I'm currently studying at <a href="https://www.fiap.com.br/">FIAP</a>.
+- 🏫 I'm graduating in Artificial Intelligence at <a href="https://www.fiap.com.br/">FIAP</a>.
 
 - 🏢 I got a certificate in System Analysis and Development at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a> in June 2022.
 
@@ -21,7 +21,7 @@ Welcome to my Github profile!
 <hr>
 
 ## Technologies & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35px" height="35px"/> <img src="![python](https://user-images.githubusercontent.com/79909717/222586208-412df296-4f22-4627-9e1f-2eb48c9c3495.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35px" height="35px"/> <img src="![icons8-python-48](https://user-images.githubusercontent.com/79909717/222587006-98d5f164-261a-49f1-ad16-827d5e7d2baa.png)
 " width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35px" height="35px" />
 
 <hr>
