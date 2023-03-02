@@ -7,6 +7,8 @@
 Welcome to my Github profile!
 - :information_desk_person: I'm 17 years old.
 
+- 🏫 I'm currently studying at FIAP - SP.
+
 - 🏢 I got a certificate in System Analysis and Development at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a> in June 2022.
 
 - 💬 Ask me about **Java, Javascript, PHP**.
