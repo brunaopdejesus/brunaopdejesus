@@ -19,7 +19,7 @@ Welcome to my Github profile!
 <hr>
 
 ## Technologies & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35px" height="35px"/> <img src="![icons8-python-48](https://user-images.githubusercontent.com/79909717/222587006-98d5f164-261a-49f1-ad16-827d5e7d2baa.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/79909717/222587367-675737e4-5366-4edc-b728-2d1e4262b6f2.png
 " width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35px" height="35px" />
 
 <hr>
@@ -33,6 +33,7 @@ Welcome to my Github profile!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaopdejesus&layout=compact"/>
   <img height="180em" src="https://github.com/brunaopdejesus/brunaopdejesus/blob/output/github-contribution-grid-snake.svg"/>
 </div>
+  
 
 <!--
 
