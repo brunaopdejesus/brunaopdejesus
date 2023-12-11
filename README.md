@@ -11,7 +11,7 @@ Welcome to my Github profile!
 
 - 🏢 I got a certificate in System Analysis and Development at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a> in June 2022.
 
-- 💬 Ask me about **Java, Kotlin, Javascript, PHP**.
+- 💬 Ask me about **Machine Learning, Python, R, Java, Kotlin, Javascript, PHP**.
 
 
 > “It's not a faith in technology. It's faith in people.” - Steve Jobs
