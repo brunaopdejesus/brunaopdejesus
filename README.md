@@ -5,7 +5,7 @@
 ## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
 
 Welcome to my Github profile!
-- :information_desk_person: I'm 18 years old.
+- :information_desk_person: I'm 19 years old.
 
 - 🏫 I'm graduating in Artificial Intelligence at <a href="https://www.fiap.com.br/">FIAP</a>.
 
