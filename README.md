@@ -5,11 +5,13 @@
 ## Hi, Devs! I'm Bruna <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
 
 Welcome to my Github profile!
-- :information_desk_person: I'm 19 years old.
+- :information_desk_person: I'm 20 years old.
 
-- 🏫 I'm graduating in Artificial Intelligence at <a href="https://www.fiap.com.br/">FIAP</a>.
+- 🏫 I'm graduating in Data Science at UNICSUL</a>.
 
-- 🏢 I got a certificate in System Analysis and Development at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a> in June 2022.
+- 🏢 I got a degree in Artificial Intelligence at FIAP in December 2024.
+
+- 🏢 I got a certificate in System Analysis and Development at Senai Jandira in June 2022.
 
 - 💬 Ask me about **Machine Learning, Python, R, Java, Kotlin, Javascript, PHP**.
 
